@@ -71,5 +71,5 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
     // Flutter Test dependencies
-    androidTestImplementation 'dev.flutter.plugins:flutter_test_runner:0.4.0' // Ensure this is the correct version
+    androidTestImplementation 'dev.flutter.plugins:flutter_test_runner:0.4.0' // Use an existing version
 }
